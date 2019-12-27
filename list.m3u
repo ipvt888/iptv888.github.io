@@ -295,8 +295,6 @@ http://hls-ott-zhibo.wasu.tv/live/156/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/363/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",BBC系列
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",生活杂谈
-http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",军事纪实
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="轮播",历史解密
