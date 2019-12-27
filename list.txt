@@ -97,8 +97,8 @@ BBCLifestyle,http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687
 国家地理野生频道,http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
 港台频道,#genre#
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://117.169.120.217:8080/live/fhchinese/.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯,http://117.169.120.217:8080/live/fhzixun/.m3u8
+凤凰中文,http://117.169.120.217:8080/live/fhchinese/.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯,http://117.169.120.217:8080/live/fhzixun/.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 三立台湾台,http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
 东森新闻台,http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
