@@ -186,9 +186,9 @@ http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台",HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文
-http://117.169.120.217:8080/live/fhchinese/.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯
-http://117.169.120.217:8080/live/fhzixun/.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港台",三立台湾台
